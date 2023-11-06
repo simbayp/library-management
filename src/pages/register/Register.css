@@ -1,0 +1,9 @@
+#IssueDate::before {
+  content: "IssueDate";
+  margin-right: 0.7rem;
+}
+
+#ReturnDate::before {
+  content: "ReturnDate";
+  margin-right: 0.7rem;
+}
